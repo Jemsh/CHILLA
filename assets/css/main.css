@@ -754,14 +754,14 @@ hr {
   min-height: 650px;
   position: relative;
   overflow: hidden;
-  padding: 180px 0 80px;
+  padding: 120px 0 80px;
 }
 
 #hero-area .contents .head-title {
   color: #222222;
-  font-size: 42px;
+  font-size: 30px;
   font-weight: 700;
-  line-height: 60px;
+  line-height: 50px;
   margin-bottom: 10px;
 }
 
@@ -796,13 +796,13 @@ hr {
 
 .team-item .team-img {
   float: left;
-  width: 200px;
+  width: 220px;
   margin-right: 30px;
 }
 
 .team-item .contetn {
   padding: 15px 50px;
-  height: 200px;
+  height: 220px;
 }
 
 .team-item .social-icons {
@@ -897,7 +897,8 @@ hr {
 
 #pricing .table {
   margin-top: 15px;
-  padding: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   border-radius: 4px;
   border: none !important;
   box-shadow: 0px 2px 18px 0px rgba(198, 198, 198, 0.3);
