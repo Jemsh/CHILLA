@@ -510,6 +510,7 @@ hr {
 }
 
 .navbar-brand {
+  width:70% !important;
   position: relative;
   padding: 0px;
 }
