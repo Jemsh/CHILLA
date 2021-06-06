@@ -510,7 +510,7 @@ hr {
 }
 
 .navbar-brand {
-  width:70% !important;
+  width:68% !important;
   position: relative;
   padding: 0px;
 }
@@ -1419,4 +1419,8 @@ textarea {
 }
 .footer-logo{
   max-width: 90%;
+}
+.langWrap{
+  color: #f63854 !important;
+
 }
