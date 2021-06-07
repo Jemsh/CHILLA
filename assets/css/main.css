@@ -130,7 +130,7 @@ a:not([href]):not([tabindex]) {
   background-color: #f63854;
   position: relative;
   z-index: 1;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 .btn-common:hover {
