@@ -27,7 +27,7 @@ var data = {
 
         "titleTwo": "",
 
-        "description": "Everyone knows that supermarkets are a highly profitable business in any crisis situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 35 years.Do you want a regular monthly income without knowing any hassle or difficulty of this business? Be a part of the prestigious Chilla Supermarket Chains!The rest is our guarantee!",
+        "description": "Everyone knows that supermarkets are a highly profitable business in any crisis situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 35 years. \nDo you want a regular monthly income without knowing any hassle or difficulty of this business? \nBe a part of the prestigious Chilla Supermarket Chains!\nThe rest is our guarantee!",
 
         // Benifits start
         "benifitsTitle": "BENEFITS OF CHILLA RETAIL FRANCHISEE",
@@ -121,7 +121,7 @@ var data = {
     },
     "malayalam":
     {
-        "title": "Сәлем Әлем",
-        "description": "എല്ലാവർക്കും അറിയാം ഏത് മഹാമാരി സാഹചര്യത്തിലും സൂപ്പർമാർക്കറ്റ് വളരെ ലാഭകരമായ ബിസിനസ്സാണെന്നും  എന്നാൽ അതിന്റെ കൃത്യനിർവ്വഹണം എല്ലായ്‌പോഴും  വളരെ പ്രയാസകരമാണെന്നും.നിങ്ങൾക്കായി ഈ പ്രയാസകരമായ എല്ലാ കൃത്യനിർവ്വഹണങ്ങളും  ഞങ്ങൾ‌ ചെയ്യുന്നു. ബിസിനസിന്റെ എല്ലാ കാര്യങ്ങളിലും എല്ലാ ഭാഗങ്ങളിലും ഞങ്ങൾ നല്ലതും കൃത്യവുംമായ  തിരഞ്ഞെടുപ്പുകൾ നടത്തുന്നു, ഇത്  നിങ്ങൾക്ക്  ലാഭം ഉറപ്പു വരുത്തുന്നു.ഇ ബിസിനെസ്സിൽ 35 വര്ഷമായിട്ടുള്ള ഞങ്ങളുടെ അനുഭവങ്ങളിലൂടെയും പതിവായ അപ്‌ഡേറ്റുകളിലൂടെയും ആണ് നങ്ങൾ ഈ കല സ്വന്തമാക്കിയത്, അതാണ് ഞങ്ങൾക്കു ഈ  ദൃഢവിശ്വാസം തന്നത്.ഇ ബിസിനസ്സിന്റെ ഒരു ബുദ്ധിമുട്ടും ഒരു പ്രയാസവും  അറിയാതെ നിങ്ങൾക്ക് എല്ലാ മാസവും വരുമാനം വേണ്ടേ? എങ്കിൽ അഭിമാനകരമായ Chilla സൂപ്പർമാർകെറ്റ് ശൃംഖലകളുടെ ഭാഗമാകൂ !.ബാക്കി ഞങ്ങളുടെ ഉറപ്പ് !"
+        "title": "തലവേദനകൾ ഇല്ലാതെ ഉറപ്പുള്ള ഒരു മാസാവരുമാനം ആണോ ഇപ്പോൾ നിങ്ങൾ ചിന്തിക്കുന്നത് ?",
+        "description": "എല്ലാവർക്കും അറിയാം ഏത് പ്രീതിസന്ധി സാഹചര്യത്തിലും സൂപ്പർമാർക്കറ്റ് വളരെ ലാഭകരമായ ബിസിനസ്സാണെന്നും  എന്നാൽ അതിന്റെ പ്രവർത്തനം എല്ലായ്‌പോഴും  വളരെ പ്രയാസകരമാണെന്നും.നിങ്ങൾക്കായി ഈ പ്രയാസകരമായ എല്ലാ പ്രവർത്തനങ്ങളും ഞങ്ങൾ‌ ചെയ്യുന്നു. ബിസിനസിന്റെ എല്ലാ കാര്യങ്ങളിലും എല്ലാ ഭാഗങ്ങളിലും ഞങ്ങൾ ഉചിതവും  കൃത്യവുംമായ  തിരഞ്ഞെടുപ്പുകൾ നടത്തുന്നു, ഇത്  നിങ്ങൾക്ക്  ലാഭം ഉറപ്പാകുന്നു.ഇ ബിസിനെസ്സിൽ 30 വര്ഷമായിട്ടുള്ള ഞങ്ങളുടെ അനുഭവങ്ങളിലൂടെയും പതിവായ അപ്‌ഡേറ്റുകളിലൂടെയും ആണ് ഞങ്ങൾ ഈ കല സ്വന്തമാക്കിയത്.\nഈ ബിസിനസ്സിന്റെ ഒരു ബുദ്ധിമുട്ടും ഒരു പ്രയാസവും  അറിയാതെ നിങ്ങൾക്ക് എല്ലാ മാസവും വരുമാനം വേണ്ടേ? \nഎങ്കിൽ അഭിമാനകരമായ Chilla സൂപരമാർക്കറ്റ് ശൃംഖലകളുടെ ഭാഗമാകൂ!.\nബാക്കി ഞങ്ങളുടെ ഉറപ്പ് !"
     }
 }
