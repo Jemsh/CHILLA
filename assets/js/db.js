@@ -1,6 +1,6 @@
 
 
-    
+
 const langEl = document.querySelector('.langWrap');
 const link = document.querySelectorAll('a');
 const titleEl = document.querySelector('.title');
@@ -18,48 +18,110 @@ link.forEach(el => {
     });
 });
 
- 
+
 
 var data = {
     "english":
     {
-        "title": "Opportunity to be a Chilla branch",
+        "title": "Are you now thinking of a guaranteed monthly income without  any headaches?",
 
-        "titleTwo": "We are now offering our franchisees in Kerala",
+        "titleTwo": "",
 
-        "description": "Everyone knows that the supermarket is a highly profitable business in any pandemic situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 35 years; this gives us confidence.Do you want a regular monthly income without knowing any hassle or difficulty of this business, be a part of the prestigious Chilla Supermarket Chains!The rest is our guarantee!",
+        "description": "Everyone knows that supermarkets are a highly profitable business in any crisis situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 35 years.Do you want a regular monthly income without knowing any hassle or difficulty of this business? Be a part of the prestigious Chilla Supermarket Chains!The rest is our guarantee!",
 
-        "titleBenifits": "BENEFITS OF CHILLA RETAIL FRANCHISEE",
+        // Benifits start
+        "benifitsTitle": "BENEFITS OF CHILLA RETAIL FRANCHISEE",
 
         "benifitsHeadOne": "SOP In Whole Area",
-        "benifitPointOne": "We retain the Standard Of Procedures in every area.We build and furnish the store.",
+        "benifitPointOneOne": "We retain the Standard Of Procedures in every area.",
+        "benifitPointOneTwo": "We build and furnish the store.",
+        "benifitPointOneThree": "",
 
-        "benifitsHeadTwo": "Team Management",
-        "benifitPointTwo": "We recruit and place the team as your store requires.We train the team in customer behaviour, sales, products, billing, merchandising, etc/.To increase the sales, we assign targets and commissions to the team",
+        "benifitsHeadTwo": "Team Management Handled by Chilla",
+        "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
+        "benifitPointTwoTwo": "We train each team member on customer behavior, sales, products, billing, merchandising, etc/.",
+        "benifitPointTwoThree": "To increase the sales, we assign targets and commissions to the team.",
 
-        "benifitsHeadThree": "Stock Management System",
-        "benifitPointThree": "We purchase stock. Replenishing stock as and when required. Pricing Stock. We purchase goods from companies with special prices",
+        "benifitsHeadThree": "Inventory Management System",
+        "benifitPointThreeOne": " Chilla buys and delivers only the required stocks of each store.",
+        "benifitPointThreeTwo": "Pricing is based on your market.",
+        "benifitPointThreeThree": "We purchase goods from companies with special prices.",
 
         "benifitsHeadFoure": "Marketing",
-        "benifitPointFoure": "We study your market regularly.We spend a certain amount on marketing for each store every month. To achieve our sales target, we develop a suitable strategy for your location",
+        "benifitPointFoureOne": "We study your market regularly.",
+        "benifitPointFoureTwo": "We spend a certain amount on marketing for each store every month",
+        "benifitPointFoureThree": "We develop and implement strategies tailored to your location to achieve sales goals.",
 
         "benifitsHeadFive": "Private Labeling ",
-        "benifitPointFive": "We produce products under our brand name. In this way, we ensure quality and price",
-        
+        "benifitPointFiveOne": "Manufactures products under our brand name.",
+        "benifitPointFiveTwo": "In this way we ensure quality and price.",
+        "benifitPointFiveThree": "",
+
         "benifitsHeadSix": "Customer Relationship",
-        "benifitPointSix": "Our purchasing system gives the customer large amounts of discount. Customer loyalty packages. Customer relationship management system",
+        "benifitPointSixOne": "Our purchasing system gives large amounts of discount to the customer.",
+        "benifitPointSixTwo": "Customer loyalty packages.",
+        "benifitPointSixThree": "Customer Relationship Management System.",
+        // Benifits End
 
+        //Why Start
+        "whyTitle": "Why do you want to be a part of Chilla?",
+        "whyDescription": "Business is not just a process to make profit, it is your recognition. It should not be a headache for you, it should give value to life. Be a member of the Chilla family that is spreading across Kerala. Contribute your idea, Let's do it together.",
+        //Why End
 
-        "whyHead":"",
-        "whyDescription":"",
+        //Requirements Start
+        "requirementsTitle": "Requirements",
+        "requirementsSubTitle": "The rest is our responsibility!",
 
+        "requirementsHeadOne": "Store Premisses",
+        "requirementsPointOne": "Minimum sales floor should require 500 sq ft.Building must be new or well maintained",
+
+        "requirementsHeadTwo": "Parking",
+        "requirementsPointTwo": "There should be at least 7+ car parking.",
+
+        "requirementsHeadThree": "Investor Eligibility",
+        "requirementsPointThree": "An investor should be part of the day-to-day activity.The background of the investor should be clean and good.",
+
+        "requirementsHeadFoure": "Location",
+        "requirementsPointFoure": "There should be at least 1500 households within a radius of 5 km.",
+        //Requirements End
+
+        // Meet Our Team Start
+        "teamTitle": "Meet Our Team",
+        // Meet Our Team End
+
+        // Financials Start
+        "financialsTitle": "Financials",
+
+        "investmentHead": "Investment",
+        "investmentAmount": "2,500,000.00/-",
+        "investmentPointOnt": "This is the minimum investment required",
+        "investmentPointTwo": "You only need to pay the actual cost of setting up the store",
+        "investmentPointThree": "",
+
+        "returenHead": "Returns",
+        "returenAmount": "5%",
+        "returenPointOnt": "You will definitely get a flat return of 5% of the sales in your store every month.",
+        "returenPointTwo": "All other expenses are covered under our purview.",
+        "returenPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
+
+        "roiHead": "Return on Investment",
+        "roiAmount": "30%",
+        "roiPointOnt": "The minimum expected ROI is 30%.",
+        "roiPointTwo": "30% is a great return compared to any other industries",
+        "roiPointThree": "",
+        // Financials End
+
+        //Call or WhatApp Start
+        "callHead": "Don't miss this opportunity!",
+        "callDescription": "Opportunity to be a branch of Chilla!.Call or WhatsApp to become a prestigious Chilla franchisee in your area now!",
+        //Call or WhatApp End
 
 
 
     },
-    "malayalam": 
-			  {
-			    "title": "Сәлем Әлем",
-			    "description":"എല്ലാവർക്കും അറിയാം ഏത് മഹാമാരി സാഹചര്യത്തിലും സൂപ്പർമാർക്കറ്റ് വളരെ ലാഭകരമായ ബിസിനസ്സാണെന്നും  എന്നാൽ അതിന്റെ കൃത്യനിർവ്വഹണം എല്ലായ്‌പോഴും  വളരെ പ്രയാസകരമാണെന്നും.നിങ്ങൾക്കായി ഈ പ്രയാസകരമായ എല്ലാ കൃത്യനിർവ്വഹണങ്ങളും  ഞങ്ങൾ‌ ചെയ്യുന്നു. ബിസിനസിന്റെ എല്ലാ കാര്യങ്ങളിലും എല്ലാ ഭാഗങ്ങളിലും ഞങ്ങൾ നല്ലതും കൃത്യവുംമായ  തിരഞ്ഞെടുപ്പുകൾ നടത്തുന്നു, ഇത്  നിങ്ങൾക്ക്  ലാഭം ഉറപ്പു വരുത്തുന്നു.ഇ ബിസിനെസ്സിൽ 35 വര്ഷമായിട്ടുള്ള ഞങ്ങളുടെ അനുഭവങ്ങളിലൂടെയും പതിവായ അപ്‌ഡേറ്റുകളിലൂടെയും ആണ് നങ്ങൾ ഈ കല സ്വന്തമാക്കിയത്, അതാണ് ഞങ്ങൾക്കു ഈ  ദൃഢവിശ്വാസം തന്നത്.ഇ ബിസിനസ്സിന്റെ ഒരു ബുദ്ധിമുട്ടും ഒരു പ്രയാസവും  അറിയാതെ നിങ്ങൾക്ക് എല്ലാ മാസവും വരുമാനം വേണ്ടേ? എങ്കിൽ അഭിമാനകരമായ Chilla സൂപ്പർമാർകെറ്റ് ശൃംഖലകളുടെ ഭാഗമാകൂ !.ബാക്കി ഞങ്ങളുടെ ഉറപ്പ് !"
-			  }
+    "malayalam":
+    {
+        "title": "Сәлем Әлем",
+        "description": "എല്ലാവർക്കും അറിയാം ഏത് മഹാമാരി സാഹചര്യത്തിലും സൂപ്പർമാർക്കറ്റ് വളരെ ലാഭകരമായ ബിസിനസ്സാണെന്നും  എന്നാൽ അതിന്റെ കൃത്യനിർവ്വഹണം എല്ലായ്‌പോഴും  വളരെ പ്രയാസകരമാണെന്നും.നിങ്ങൾക്കായി ഈ പ്രയാസകരമായ എല്ലാ കൃത്യനിർവ്വഹണങ്ങളും  ഞങ്ങൾ‌ ചെയ്യുന്നു. ബിസിനസിന്റെ എല്ലാ കാര്യങ്ങളിലും എല്ലാ ഭാഗങ്ങളിലും ഞങ്ങൾ നല്ലതും കൃത്യവുംമായ  തിരഞ്ഞെടുപ്പുകൾ നടത്തുന്നു, ഇത്  നിങ്ങൾക്ക്  ലാഭം ഉറപ്പു വരുത്തുന്നു.ഇ ബിസിനെസ്സിൽ 35 വര്ഷമായിട്ടുള്ള ഞങ്ങളുടെ അനുഭവങ്ങളിലൂടെയും പതിവായ അപ്‌ഡേറ്റുകളിലൂടെയും ആണ് നങ്ങൾ ഈ കല സ്വന്തമാക്കിയത്, അതാണ് ഞങ്ങൾക്കു ഈ  ദൃഢവിശ്വാസം തന്നത്.ഇ ബിസിനസ്സിന്റെ ഒരു ബുദ്ധിമുട്ടും ഒരു പ്രയാസവും  അറിയാതെ നിങ്ങൾക്ക് എല്ലാ മാസവും വരുമാനം വേണ്ടേ? എങ്കിൽ അഭിമാനകരമായ Chilla സൂപ്പർമാർകെറ്റ് ശൃംഖലകളുടെ ഭാഗമാകൂ !.ബാക്കി ഞങ്ങളുടെ ഉറപ്പ് !"
+    }
 }
