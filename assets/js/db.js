@@ -47,7 +47,12 @@ var data = {
         "benifitPointFive": "We produce products under our brand name. In this way, we ensure quality and price",
         
         "benifitsHeadSix": "Customer Relationship",
-        "benifitPointSix": "Our purchasing system gives the customer large amounts of discount. Customer loyalty packages. Customer relationship management system"
+        "benifitPointSix": "Our purchasing system gives the customer large amounts of discount. Customer loyalty packages. Customer relationship management system",
+
+
+        "whyHead":"",
+        "whyDescription":"",
+
 
 
 
