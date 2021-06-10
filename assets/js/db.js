@@ -10,23 +10,23 @@ const benifitsHeadOneEl = document.querySelector(".benifitsHeadOne");
 const benifitPointOneOneEl = document.querySelector(".benifitPointOneOne");
 
 const benifitsHeadTwoEl = document.querySelector(".benifitsHeadTwo");
-const benifitPointTwolEl = document.querySelector(".benifitPointTwol ");
+const benifitPointTwoEl = document.querySelector(".benifitPointTwo");
 
 
 const benifitsHeadThreeEl = document.querySelector(".benifitsHeadThree");
-const benifitPointThreelEl = document.querySelector(".benifitPointThreel ");
+const benifitPointThreelEl = document.querySelector(".benifitPointThree");
 
 
 const benifitsHeadFoureEl = document.querySelector(".benifitsHeadFoure");
-const benifitPointFoureEl = document.querySelector(".benifitPointFourel ");
+const benifitPointFoureEl = document.querySelector(".benifitPointFoure");
 
 
 const benifitsHeadFiveEl = document.querySelector(".benifitsHeadFive");
-const benifitPointFiveEl = document.querySelector(".benifitPointFivel ");
+const benifitPointFiveEl = document.querySelector(".benifitPointFive");
 
 
 const benifitsHeadSixEl = document.querySelector(".benifitsHeadSix");
-const benifitPointSixEl = document.querySelector(".benifitPointSixl ");
+const benifitPointSixEl = document.querySelector(".benifitPointSix");
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -73,10 +73,8 @@ var data = {
         "benifitsHeadOne": "SOP In Whole Area",
         "benifitPointOneOne": "We retain the Standard Of Procedures in every area | We build and furnish the store.",
 
-        "benifitsHeadTwo": "Team Management Handled by Chilla",
-        "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
-        "benifitPointTwoTwo": "We train each team member on customer behavior, sales, products, billing, merchandising, etc/.",
-        "benifitPointTwoThree": "To increase the sales, we assign targets and commissions to the team.",
+        "benifitsHeadTwo": "Team Management",
+        "benifitPointTwo": "We recruit and place the teams as your business requires | We train each team member on customer behavior, sales, products, billing, merchandising, etc/ | To increase the sales, we assign targets and commissions to the team.",
 
         "benifitsHeadThree": "Inventory Management System",
         "benifitPointThreeOne": " Chilla buys and delivers only the required stocks of each store.",
@@ -168,10 +166,10 @@ var data = {
         "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop",
         "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും സജ്ജമാക്കുകയും ചെയ്യുന്നു",
 
-        "benifitsHeadTwo": "Team Management Handled by Chilla",
-        "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
-        "benifitPointTwoTwo": "We train each team member on customer behavior, sales, products, billing, merchandising, etc/.",
-        "benifitPointTwoThree": "To increase the sales, we assign targets and commissions to the team.",
+
+        "benifitsHeadTwo": "ടീം മാനേജുമെന്റ്",
+        "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
+        
 
         "benifitsHeadThree": "Inventory Management System",
         "benifitPointThreeOne": " Chilla buys and delivers only the required stocks of each store.",
