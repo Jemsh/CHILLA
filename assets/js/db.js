@@ -3,30 +3,34 @@
 
 const langEl = document.querySelector('.langWrap');
 const link = document.querySelectorAll('a');
+
+
 const titleEl = document.querySelector('.title');
 const descrEl = document.querySelector('.description');
+
+
 const benifitsTitleEl = document.querySelector('.benifitsTitle');
+
 const benifitsHeadOneEl = document.querySelector(".benifitsHeadOne");
 const benifitPointOneOneEl = document.querySelector(".benifitPointOneOne");
 
 const benifitsHeadTwoEl = document.querySelector(".benifitsHeadTwo");
 const benifitPointTwoEl = document.querySelector(".benifitPointTwo");
 
-
 const benifitsHeadThreeEl = document.querySelector(".benifitsHeadThree");
 const benifitPointThreeEl = document.querySelector(".benifitPointThree");
-
 
 const benifitsHeadFoureEl = document.querySelector(".benifitsHeadFoure");
 const benifitPointFoureEl = document.querySelector(".benifitPointFoure");
 
-
 const benifitsHeadFiveEl = document.querySelector(".benifitsHeadFive");
 const benifitPointFiveEl = document.querySelector(".benifitPointFive");
 
-
 const benifitsHeadSixEl = document.querySelector(".benifitsHeadSix");
 const benifitPointSixEl = document.querySelector(".benifitPointSix");
+
+const whyTitleEl = document.querySelector(".whyTitle");
+const whyDescriptionEl = document.querySelector(".whyDescription");
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -37,20 +41,29 @@ link.forEach(el => {
 
         titleEl.textContent = data[attr].title;
         descrEl.textContent = data[attr].description;
+
+
         benifitsTitleEl.textContent = data[attr].benifitsTitle;
         benifitsHeadOneEl.textContent = data[attr].benifitsHeadOne;
         benifitPointOneOneEl.textContent = data[attr].benifitPointOneOne;
 
         benifitsHeadTwoEl.textContent = data[attr].benifitsHeadTwo;
         benifitPointTwoEl.textContent = data[attr].benifitPointTwo;
+
         benifitsHeadThreeEl.textContent = data[attr].benifitsHeadThree;
         benifitPointThreeEl.textContent = data[attr].benifitPointThree;
+
         benifitsHeadFoureEl.textContent = data[attr].benifitsHeadFoure;
         benifitPointFoureEl.textContent = data[attr].benifitPointFoure;
+
         benifitsHeadFiveEl.textContent = data[attr].benifitsHeadFive;
         benifitPointFiveEl.textContent = data[attr].benifitPointFive;
+
         benifitsHeadSixEl.textContent = data[attr].benifitsHeadSix;
         benifitPointSixEl.textContent = data[attr].benifitPointSix;
+
+        whyTitleEl.textContent = data[attr].whyTitle;
+        whyDescriptionEl.textContent = data[attr].whyDescription;
 
 
     });
@@ -81,7 +94,7 @@ var data = {
 
         "benifitsHeadFoure": "Marketing",
         "benifitPointFoure": "We study your market regularly | We spend a certain amount on marketing for each store every month | We develop and implement strategies tailored to your location to achieve sales goals.",
-        
+
 
         "benifitsHeadFive": "Private Labeling",
         "benifitPointFive": "Manufactures products under our brand name | In this way we ensure quality and price",
@@ -92,7 +105,7 @@ var data = {
 
         //Why Start
         "whyTitle": "Why do you want to be a part of Chilla?",
-        "whyDescription": "Business is not just a process to make profit, it is your recognition. It should not be a headache for you, it should give value to life. Be a member of the Chilla family that is spreading across Kerala. \nContribute your idea, \nLet's do it together.",
+        "whyDescription": "Business is not just a process to make profit, it is your recognition. It should not be a headache for you, it should give value to life. Be a member of the Chilla family that is spreading across Kerala. Contribute your idea, Let's do it together.",
         //Why End
 
         //Requirements Start
@@ -162,7 +175,7 @@ var data = {
 
         "benifitsHeadTwo": "ടീം മാനേജുമെന്റ്",
         "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
-        
+
 
         "benifitsHeadThree": "സ്റ്റോക്ക് എന്ന തലവേദന നിങ്ങൾ അറിയുന്നില്ല",
         "benifitPointThree": "ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla വാങ്ങി എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു | കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു",
@@ -173,14 +186,14 @@ var data = {
 
         "benifitsHeadFive": "പ്രൈവറ്റ്  ലേബലിംഗ്",
         "benifitPointFive": "നമ്മുടെ ബ്രാൻഡ് നാമത്തിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്നു | അങ്ങനെ ഉൽപ്പനകളുടെ , ഗുണനിലവാരവും വിലയും ഞങ്ങൾ ഉറപ്പാക്കുന്നു | ഇത് നല്ല തരത്തിലുള്ള ബിസിനസ് കൊണ്ടുവരും",
-        
+
         "benifitsHeadSix": "ഉപഭോക്തൃ ബന്ധം",
         "benifitPointSix": "ഉൽപ്പന്നങ്ങൾ പ്രത്യേക വിലക്ക് വാങ്ങുന്നതിനാൽ ഉപഭോക്താവിന് വലിയ അളവിൽ ഇളവ് നൽകാൻ സാധിക്കുന്നു | ഉപഭോക്തൃ ലോയൽറ്റി പാക്കേജുകൾ | ഉപഭോക്തൃ ബന്ധ മാനേജുമെന്റ് സിസ്റ്റം",
         // Benifits End
 
         //Why Start
         "whyTitle": "എന്തുകൊണ്ടാണ് നിങ്ങൾ chilla യുടെ ഭാഗമേകേണ്ടത്?",
-        "whyDescription": "ബിസിനസ്സ് ലാഭമുണ്ടാക്കാനുള്ള ഒരു പ്രക്രിയ മാത്രമല്ല, അത് നിങ്ങളുടെ മേൽവിലാസം കൂടെ ആണ്. അത് നിങ്ങൾക്ക് തലവേദനയല്ല ഉണ്ടാകേണ്ടത്, ജീവിതത്തിന് മൂല്യം നൽകണം. കേരളത്തിലുടനീളം പ്രചരിക്കുന്ന ചില്ല കുടുംബത്തിലെ അംഗമാകൂ.\nനിങ്ങളുടെ ആശയം സംഭാവന ചെയ്യൂ,\nനമുക്ക് ഇത് ഒരുമിച്ച് ചെയ്യാം!!",
+        "whyDescription": "ബിസിനസ്സ് ലാഭമുണ്ടാക്കാനുള്ള ഒരു പ്രക്രിയ മാത്രമല്ല, അത് നിങ്ങളുടെ മേൽവിലാസം കൂടെ ആണ്. അത് നിങ്ങൾക്ക് തലവേദനയല്ല ഉണ്ടാകേണ്ടത്, ജീവിതത്തിന് മൂല്യം നൽകണം. കേരളത്തിലുടനീളം പ്രചരിക്കുന്ന ചില്ല കുടുംബത്തിലെ അംഗമാകൂ.നിങ്ങളുടെ ആശയം സംഭാവന ചെയ്യൂ,നമുക്ക് ഇത് ഒരുമിച്ച് ചെയ്യാം!!",
         //Why End
 
         //Requirements Start
