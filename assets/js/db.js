@@ -73,7 +73,13 @@ const roiHeadEl = document.querySelector(".roiHead");
 const roiPointOneEl = document.querySelector(".roiPointOne");
 const roiPointTwoEl = document.querySelector(".roiPointTwo");
 // //Roi End
+
 //Finincials End
+
+//Call or WhatsApp Start
+const callHeadEl = document.querySelector(".callHead");
+const callDescriptionEl = document.querySelector(".callDescription");
+//Call or WhatsApp End
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -153,6 +159,10 @@ link.forEach(el => {
 
         // //Finincials End
 
+        //Call or WhatsApp Start
+        callHeadEl.textContent = data[attr].callHead;
+        callDescriptionEl.textContent = data[attr].callDescription;
+        //Call or WhatsApp End
 
 
     });
@@ -238,7 +248,7 @@ var data = {
 
         //Call or WhatApp Start
         "callHead": "Don't miss this opportunity!",
-        "callDescription": "Opportunity to be a branch of Chilla!.Call or WhatsApp to become a prestigious Chilla franchisee in your area now!",
+        "callDescription": "Opportunity to be a branch of Chilla!.\nCall or WhatsApp to become a prestigious Chilla franchisee in your area now!",
         //Call or WhatApp End
 
 
@@ -318,8 +328,8 @@ var data = {
         // Financials End
 
         //Call or WhatApp Start
-        "callHead": "Don't miss this opportunity!",
-        "callDescription": "Opportunity to be a branch of Chilla!.Call or WhatsApp to become a prestigious Chilla franchisee in your area now!",
+        "callHead": "ഈ അവസരം നഷ്‌ടപ്പെടുത്തരുത് !!",
+        "callDescription": "ചില്ലയുടെ ഒരു ശാഖയാകാനുള്ള അവസരം! \nവിളിക്കു, whatsapp ചെയ്യൂ ഇപ്പൊ കേരത്തിൽ നൽകുന്ന ചില്ലയുടെ ഒരു ഫ്രാഞ്ചൈസി നേടാൻ!!!",
         //Call or WhatApp End
 
     }
