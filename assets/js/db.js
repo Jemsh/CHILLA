@@ -5,7 +5,9 @@ const langEl = document.querySelector('.langWrap');
 const link = document.querySelectorAll('a');
 const titleEl = document.querySelector('.title');
 const descrEl = document.querySelector('.description');
-const benifitsTitleEl = document.querySelector('.benifitsTitleEl');
+const benifitsTitleEl = document.querySelector('.benifitsTitle');
+const benifitsHeadOneEl = document.querySelector(".benifitsHeadOne");
+const benifitPointOneOneEl = document.querySelector(".benifitPointOneOne");
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -17,6 +19,9 @@ link.forEach(el => {
         titleEl.textContent = data[attr].title;
         descrEl.textContent = data[attr].description;
         benifitsTitleEl.textContent = data[attr].benifitsTitle;
+        benifitsHeadOneEl.textContent = data[attr].benifitsHeadOne;
+        benifitPointOneOneEl.textContent = data[attr].benifitPointOneOne;
+
 
     });
 });
@@ -36,9 +41,7 @@ var data = {
         "benifitsTitle": "Benefit of Chilla",
 
         "benifitsHeadOne": "SOP In Whole Area",
-        "benifitPointOneOne": "We retain the Standard Of Procedures in every area.",
-        "benifitPointOneTwo": "We build and furnish the store.",
-        "benifitPointOneThree": "",
+        "benifitPointOneOne": "We retain the Standard Of Procedures in every area | We build and furnish the store.",
 
         "benifitsHeadTwo": "Team Management Handled by Chilla",
         "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
@@ -122,6 +125,7 @@ var data = {
 
 
     },
+    //Malayalam Starts Here
     "malayalam":
     {
         "title": "തലവേദനകൾ ഇല്ലാതെ ഉറപ്പുള്ള ഒരു മാസാവരുമാനം ആണോ ഇപ്പോൾ നിങ്ങൾ ചിന്തിക്കുന്നത് ?",
@@ -131,11 +135,9 @@ var data = {
         // Benifits start
         "benifitsTitle": "chilla യുടെ പ്രയോജനങ്ങൾ",
 
-        "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop.",
-        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു.",
-        "benifitPointOneTwo": "ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും സജ്ജമാക്കുകയും ചെയ്യുന്നു.",
-        "benifitPointOneThree": "",
-
+        "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop",
+        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും സജ്ജമാക്കുകയും ചെയ്യുന്നു",
+       
         "benifitsHeadTwo": "Team Management Handled by Chilla",
         "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
         "benifitPointTwoTwo": "We train each team member on customer behavior, sales, products, billing, merchandising, etc/.",
