@@ -105,7 +105,7 @@ var data = {
 
         //Why Start
         "whyTitle": "Why do you want to be a part of Chilla?",
-        "whyDescription": "Business is not just a process to make profit, it is your recognition. It should not be a headache for you, it should give value to life. Be a member of the Chilla family that is spreading across Kerala. Contribute your idea, Let's do it together.",
+        "whyDescription": "Business is not just a process to make profit, it is your recognition. It should not be a headache for you, it should give value to life. \nBe a member of the Chilla family that is spreading across Kerala. \nContribute your idea! \nLet's do it together!!",
         //Why End
 
         //Requirements Start
@@ -193,7 +193,7 @@ var data = {
 
         //Why Start
         "whyTitle": "എന്തുകൊണ്ടാണ് നിങ്ങൾ chilla യുടെ ഭാഗമേകേണ്ടത്?",
-        "whyDescription": "ബിസിനസ്സ് ലാഭമുണ്ടാക്കാനുള്ള ഒരു പ്രക്രിയ മാത്രമല്ല, അത് നിങ്ങളുടെ മേൽവിലാസം കൂടെ ആണ്. അത് നിങ്ങൾക്ക് തലവേദനയല്ല ഉണ്ടാകേണ്ടത്, ജീവിതത്തിന് മൂല്യം നൽകണം. കേരളത്തിലുടനീളം പ്രചരിക്കുന്ന ചില്ല കുടുംബത്തിലെ അംഗമാകൂ.നിങ്ങളുടെ ആശയം സംഭാവന ചെയ്യൂ,നമുക്ക് ഇത് ഒരുമിച്ച് ചെയ്യാം!!",
+        "whyDescription": "ബിസിനസ്സ് ലാഭമുണ്ടാക്കാനുള്ള ഒരു പ്രക്രിയ മാത്രമല്ല, അത് നിങ്ങളുടെ മേൽവിലാസം കൂടെ ആണ്. അത് നിങ്ങൾക്ക് തലവേദനയല്ല ഉണ്ടാകേണ്ടത്, ജീവിതത്തിന് മൂല്യം നൽകണം.\nകേരളത്തിലുടനീളം പ്രചരിക്കുന്ന ചില്ല കുടുംബത്തിലെ അംഗമാകൂ.\nനിങ്ങളുടെ ആശയം സംഭാവന ചെയ്യൂ!\nനമുക്ക് ഇത് ഒരുമിച്ച് ചെയ്യാം!!",
         //Why End
 
         //Requirements Start
