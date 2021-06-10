@@ -8,7 +8,7 @@ const link = document.querySelectorAll('a');
 const titleEl = document.querySelector('.title');
 const descrEl = document.querySelector('.description');
 
-
+// Benifits Start
 const benifitsTitleEl = document.querySelector('.benifitsTitle');
 
 const benifitsHeadOneEl = document.querySelector(".benifitsHeadOne");
@@ -31,6 +31,24 @@ const benifitPointSixEl = document.querySelector(".benifitPointSix");
 
 const whyTitleEl = document.querySelector(".whyTitle");
 const whyDescriptionEl = document.querySelector(".whyDescription");
+// Benifits End
+
+// Requirement Start
+const requirementsTitleEl = document.querySelector(".requirementsTitle");
+const requirementsSubTitleEl = document.querySelector(".requirementsSubTitle");
+
+const requirementsHeadOneEl = document.querySelector(".requirementsHeadOne");
+const requirementsPointOneEl = document.querySelector(".requirementsPointOne");
+
+const requirementsHeadTwoEl = document.querySelector(".requirementsHeadTwo");
+const requirementsPointTwoEl = document.querySelector(".requirementsPointTwo");
+
+const requirementsHeadThreeEl = document.querySelector(".requirementsHeadThree");
+const requirementsPointThreeEl = document.querySelector(".requirementsPointThree");
+
+const requirementsHeadFoureEl = document.querySelector(".requirementsHeadFoure");
+const requirementsPointFoureEl = document.querySelector(".requirementsPointFoure");
+// Requirement End
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -42,7 +60,7 @@ link.forEach(el => {
         titleEl.textContent = data[attr].title;
         descrEl.textContent = data[attr].description;
 
-
+        // Benifits Start
         benifitsTitleEl.textContent = data[attr].benifitsTitle;
         benifitsHeadOneEl.textContent = data[attr].benifitsHeadOne;
         benifitPointOneOneEl.textContent = data[attr].benifitPointOneOne;
@@ -61,9 +79,30 @@ link.forEach(el => {
 
         benifitsHeadSixEl.textContent = data[attr].benifitsHeadSix;
         benifitPointSixEl.textContent = data[attr].benifitPointSix;
+        //Benifits End
 
+        // Why Start
         whyTitleEl.textContent = data[attr].whyTitle;
         whyDescriptionEl.textContent = data[attr].whyDescription;
+        // Why End
+
+        //Requirement Start
+        requirementsTitleEl.textContent = data[attr].requirementsTitle;
+        requirementsSubTitleEl.textContent = data[attr].requirementsSubTitle;
+
+        requirementsHeadOneEl.textContent = data[attr].requirementsHeadOne;
+        requirementsPointOneEl.textContent = data[attr].requirementsPointOne;
+
+        requirementsHeadTwoEl.textContent = data[attr].requirementsHeadTwo;
+        requirementsPointTwoEl.textContent = data[attr].requirementsPointTwo;
+
+        requirementsHeadThreeEl.textContent = data[attr].requirementsHeadThree;
+        requirementsPointThreeEl.textContent = data[attr].requirementsPointThree;
+
+        requirementsHeadFoureEl.textContent = data[attr].requirementsHeadFoure;
+        requirementsPointFoureEl.textContent = data[attr].requirementsPointFoure;
+        //Requirement End
+
 
 
     });
