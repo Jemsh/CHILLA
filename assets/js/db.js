@@ -14,7 +14,7 @@ const benifitPointTwoEl = document.querySelector(".benifitPointTwo");
 
 
 const benifitsHeadThreeEl = document.querySelector(".benifitsHeadThree");
-const benifitPointThreelEl = document.querySelector(".benifitPointThree");
+const benifitPointThreeEl = document.querySelector(".benifitPointThree");
 
 
 const benifitsHeadFoureEl = document.querySelector(".benifitsHeadFoure");
@@ -76,25 +76,18 @@ var data = {
         "benifitsHeadTwo": "Team Management",
         "benifitPointTwo": "We recruit and place the teams as your business requires | We train each team member on customer behavior, sales, products, billing, merchandising, etc/ | To increase the sales, we assign targets and commissions to the team.",
 
-        "benifitsHeadThree": "Inventory Management System",
-        "benifitPointThreeOne": " Chilla buys and delivers only the required stocks of each store.",
-        "benifitPointThreeTwo": "Pricing is based on your market.",
-        "benifitPointThreeThree": "We purchase goods from companies with special prices.",
+        "benifitsHeadThree": "Inventory Management",
+        "benifitPointThree": "Chilla buys and delivers only the required stocks of each store | Pricing is based on your market | We purchase goods from companies with special prices.",
 
         "benifitsHeadFoure": "Marketing",
-        "benifitPointFoureOne": "We study your market regularly.",
-        "benifitPointFoureTwo": "We spend a certain amount on marketing for each store every month",
-        "benifitPointFoureThree": "We develop and implement strategies tailored to your location to achieve sales goals.",
+        "benifitPointFoure": "We study your market regularly | We spend a certain amount on marketing for each store every month | We develop and implement strategies tailored to your location to achieve sales goals.",
+        
 
-        "benifitsHeadFive": "Private Labeling ",
-        "benifitPointFiveOne": "Manufactures products under our brand name.",
-        "benifitPointFiveTwo": "In this way we ensure quality and price.",
-        "benifitPointFiveThree": "",
+        "benifitsHeadFive": "Private Labeling",
+        "benifitPointFive": "Manufactures products under our brand name | In this way we ensure quality and price",
 
         "benifitsHeadSix": "Customer Relationship",
-        "benifitPointSixOne": "Our purchasing system gives large amounts of discount to the customer.",
-        "benifitPointSixTwo": "Customer loyalty packages.",
-        "benifitPointSixThree": "Customer Relationship Management System.",
+        "benifitPointSix": "Our purchasing system gives large amounts of discount to the customer | Customer loyalty packages | Customer Relationship Management System.",
         // Benifits End
 
         //Why Start
@@ -171,25 +164,18 @@ var data = {
         "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
         
 
-        "benifitsHeadThree": "Inventory Management System",
-        "benifitPointThreeOne": " Chilla buys and delivers only the required stocks of each store.",
-        "benifitPointThreeTwo": "Pricing is based on your market.",
-        "benifitPointThreeThree": "We purchase goods from companies with special prices.",
+        "benifitsHeadThree": "സ്റ്റോക്ക് എന്ന തലവേദന നിങ്ങൾ അറിയുന്നില്ല",
+        "benifitPointThree": "ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla വാങ്ങി എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു | കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു",
 
-        "benifitsHeadFoure": "Marketing",
-        "benifitPointFoureOne": "We study your market regularly.",
-        "benifitPointFoureTwo": "We spend a certain amount on marketing for each store every month",
-        "benifitPointFoureThree": "We develop and implement strategies tailored to your location to achieve sales goals.",
 
-        "benifitsHeadFive": "Private Labeling ",
-        "benifitPointFiveOne": "Manufactures products under our brand name.",
-        "benifitPointFiveTwo": "In this way we ensure quality and price.",
-        "benifitPointFiveThree": "",
+        "benifitsHeadFoure": "മാർക്കറ്റിംഗ്",
+        "benifitPointFoure": "ഞങ്ങൾ നിങ്ങളുടെ മാർക്കറ്റിനെ കുറിച്ച്  പതിവായി പഠിക്കുന്നു | ഓരോ സ്റ്റോറിനും ഓരോ മാസവും മാർക്കറ്റിംഗിനായി chilla  ഒരു നിശ്ചിത തുക ചെലവഴിക്കുന്നു | വിൽപ്പന ടാർഗറ്റ്  നേടാൻ, നിങ്ങളുടെ ലൊക്കേഷന് അനുയോജ്യമായ തന്ത്രംങ്ങൾ  വികസിപ്പിച്ചു പ്രാവർത്തികമാകുന്നു",
 
-        "benifitsHeadSix": "Customer Relationship",
-        "benifitPointSixOne": "Our purchasing system gives large amounts of discount to the customer.",
-        "benifitPointSixTwo": "Customer loyalty packages.",
-        "benifitPointSixThree": "Customer Relationship Management System.",
+        "benifitsHeadFive": "പ്രൈവറ്റ്  ലേബലിംഗ്",
+        "benifitPointFive": "നമ്മുടെ ബ്രാൻഡ് നാമത്തിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്നു | അങ്ങനെ ഉൽപ്പനകളുടെ , ഗുണനിലവാരവും വിലയും ഞങ്ങൾ ഉറപ്പാക്കുന്നു | ഇത് നല്ല തരത്തിലുള്ള ബിസിനസ് കൊണ്ടുവരും",
+        
+        "benifitsHeadSix": "ഉപഭോക്തൃ ബന്ധം",
+        "benifitPointSix": "ഉൽപ്പന്നങ്ങൾ പ്രത്യേക വിലക്ക് വാങ്ങുന്നതിനാൽ ഉപഭോക്താവിന് വലിയ അളവിൽ ഇളവ് നൽകാൻ സാധിക്കുന്നു | ഉപഭോക്തൃ ലോയൽറ്റി പാക്കേജുകൾ | ഉപഭോക്തൃ ബന്ധ മാനേജുമെന്റ് സിസ്റ്റം",
         // Benifits End
 
         //Why Start
