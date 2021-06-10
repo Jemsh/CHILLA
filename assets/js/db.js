@@ -54,26 +54,26 @@ const requirementsPointFoureEl = document.querySelector(".requirementsPointFoure
 
 const financialsTitleEl = document.querySelector(".financialsTitle");
 
-//Investment Start
+// //Investment Start
 const investmentHeadEl = document.querySelector(".investmentHead");
 const investmentPointOneEl = document.querySelector(".investmentPointOne");
 const investmentPointTwoEl = document.querySelector(".investmentPointTwo");
 const investmentPointThreeEl = document.querySelector(".investmentPointThree");
-const returenHeadEl = document.querySelector(".returenHead");
-//Investment End
+// //Investment End
 
-//Returens Start
+// //Returens Start
 const returenHeadEl = document.querySelector(".returenHead");
 const returenPointOneEl = document.querySelector(".returenPointOne");
 const returenPointTwoEl = document.querySelector(".returenPointTwo");
 const returenPointThreeEl = document.querySelector(".returenPointThree");
-//Returens End
+// //Returens End
 
-//Roi Start
+// //Roi Start
 const roiHeadEl = document.querySelector(".roiHead");
 const roiPointOneEl = document.querySelector(".roiPointOne");
 const roiPointTwoEl = document.querySelector(".roiPointTwo");
-//Roi End
+// //Roi End
+//Finincials End
 
 link.forEach(el => {
     el.addEventListener('click', () => {
@@ -128,30 +128,30 @@ link.forEach(el => {
         requirementsPointFoureEl.textContent = data[attr].requirementsPointFoure;
         //Requirement End
 
-        //Finincials Start
+        // //Finincials Start
         financialsTitleEl.textContent = data[attr].financialsTitle;
 
-        //Investment Start
+        // //Investment Start
         investmentHeadEl.textContent = data[attr].investmentHead;
         investmentPointOneEl.textContent = data[attr].investmentPointOne;
         investmentPointTwoEl.textContent = data[attr].investmentPointTwo;
         investmentPointThreeEl.textContent = data[attr].investmentPointThree;
-        //Investment End
+        // //Investment End
 
-        //Returens Start
+        // //Returens Start
         returenHeadEl.textContent = data[attr].returenHead;
         returenPointOneEl.textContent = data[attr].returenPointOne;
         returenPointTwoEl.textContent = data[attr].returenPointTwo;
         returenPointThreeEl.textContent = data[attr].returenPointThree;
-        //Returens End
+        // //Returens End
 
-        //Roi Start
+        // //Roi Start
         roiHeadEl.textContent = data[attr].roiHead;
         roiPointOneEl.textContent = data[attr].roiPointOne;
         roiPointTwoEl.textContent = data[attr].roiPointTwo;
-        //Roi End
+        // //Roi End
 
-        //Finincials End
+        // //Finincials End
 
 
 
@@ -298,7 +298,7 @@ var data = {
         "requirementsPointFoure": "ഒരു നിക്ഷേപകൻ എങ്കിലും ദൈനംദിന പ്രവർത്തനത്തിന്റെ ഭാഗമായിരിക്കണം | നിക്ഷേപകന്റെ പശ്ചാത്തലം ശുദ്ധവും മികച്ചതുമായിരിക്കണം",
         //Requirements End
 
-        
+
         // Financials Start
         "financialsTitle": "സാമ്പത്തികം",
 
