@@ -50,6 +50,31 @@ const requirementsHeadFoureEl = document.querySelector(".requirementsHeadFoure")
 const requirementsPointFoureEl = document.querySelector(".requirementsPointFoure");
 // Requirement End
 
+//Financials Start
+
+const financialsTitleEl = document.querySelector(".financialsTitle");
+
+//Investment Start
+const investmentHeadEl = document.querySelector(".investmentHead");
+const investmentPointOneEl = document.querySelector(".investmentPointOne");
+const investmentPointTwoEl = document.querySelector(".investmentPointTwo");
+const investmentPointThreeEl = document.querySelector(".investmentPointThree");
+const returenHeadEl = document.querySelector(".returenHead");
+//Investment End
+
+//Returens Start
+const returenHeadEl = document.querySelector(".returenHead");
+const returenPointOneEl = document.querySelector(".returenPointOne");
+const returenPointTwoEl = document.querySelector(".returenPointTwo");
+const returenPointThreeEl = document.querySelector(".returenPointThree");
+//Returens End
+
+//Roi Start
+const roiHeadEl = document.querySelector(".roiHead");
+const roiPointOneEl = document.querySelector(".roiPointOne");
+const roiPointTwoEl = document.querySelector(".roiPointTwo");
+//Roi End
+
 link.forEach(el => {
     el.addEventListener('click', () => {
         langEl.querySelector('.active').classList.remove('active');
@@ -102,6 +127,31 @@ link.forEach(el => {
         requirementsHeadFoureEl.textContent = data[attr].requirementsHeadFoure;
         requirementsPointFoureEl.textContent = data[attr].requirementsPointFoure;
         //Requirement End
+
+        //Finincials Start
+        financialsTitleEl.textContent = data[attr].financialsTitle;
+
+        //Investment Start
+        investmentHeadEl.textContent = data[attr].investmentHead;
+        investmentPointOneEl.textContent = data[attr].investmentPointOne;
+        investmentPointTwoEl.textContent = data[attr].investmentPointTwo;
+        investmentPointThreeEl.textContent = data[attr].investmentPointThree;
+        //Investment End
+
+        //Returens Start
+        returenHeadEl.textContent = data[attr].returenHead;
+        returenPointOneEl.textContent = data[attr].returenPointOne;
+        returenPointTwoEl.textContent = data[attr].returenPointTwo;
+        returenPointThreeEl.textContent = data[attr].returenPointThree;
+        //Returens End
+
+        //Roi Start
+        roiHeadEl.textContent = data[attr].roiHead;
+        roiPointOneEl.textContent = data[attr].roiPointOne;
+        roiPointTwoEl.textContent = data[attr].roiPointTwo;
+        //Roi End
+
+        //Finincials End
 
 
 
@@ -172,22 +222,18 @@ var data = {
         "financialsTitle": "Financials",
 
         "investmentHead": "Investment",
-        "investmentAmount": "2,500,000.00/-",
-        "investmentPointOnt": "This is the minimum investment required",
-        "investmentPointTwo": "You only need to pay the actual cost of setting up the store",
-        "investmentPointThree": "",
+        "investmentPointOne": "This is the minimum investment required",
+        "investmentPointTwo": "The franchise fee is Rs 250,000 /- + GST",
+        "investmentPointThree": "You only need to pay the actual cost of setting up the store",
 
         "returenHead": "Returns",
-        "returenAmount": "5%",
-        "returenPointOnt": "You will definitely get a flat return of 5% of the sales in your store every month.",
+        "returenPointOne": "You will definitely get a flat return of 5% of the sales in your store every month",
         "returenPointTwo": "All other expenses are covered under our purview.",
         "returenPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
 
         "roiHead": "Return on Investment",
-        "roiAmount": "30%",
-        "roiPointOnt": "The minimum expected ROI is 30%.",
+        "roiPointOne": "The minimum expected ROI is 30%",
         "roiPointTwo": "30% is a great return compared to any other industries",
-        "roiPointThree": "",
         // Financials End
 
         //Call or WhatApp Start
@@ -252,30 +298,23 @@ var data = {
         "requirementsPointFoure": "ഒരു നിക്ഷേപകൻ എങ്കിലും ദൈനംദിന പ്രവർത്തനത്തിന്റെ ഭാഗമായിരിക്കണം | നിക്ഷേപകന്റെ പശ്ചാത്തലം ശുദ്ധവും മികച്ചതുമായിരിക്കണം",
         //Requirements End
 
-        // Meet Our Team Start
-        "teamTitle": "Meet Our Team",
-        // Meet Our Team End
-
+        
         // Financials Start
-        "financialsTitle": "Financials",
+        "financialsTitle": "സാമ്പത്തികം",
 
-        "investmentHead": "Investment",
-        "investmentAmount": "2,500,000.00/-",
-        "investmentPointOnt": "This is the minimum investment required",
-        "investmentPointTwo": "You only need to pay the actual cost of setting up the store",
-        "investmentPointThree": "",
+        "investmentHead": "നിക്ഷേപം",
+        "investmentPointOne": "ഇത് ആവശ്യമായ മിനിമം നിക്ഷേപം ആണ്",
+        "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 /- + GST",
+        "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ",
 
-        "returenHead": "Returns",
-        "returenAmount": "5%",
-        "returenPointOnt": "You will definitely get a flat return of 5% of the sales in your store every month.",
-        "returenPointTwo": "All other expenses are covered under our purview.",
-        "returenPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
+        "returenHead": "വരുമാനം",
+        "returenPointOne": "നിങ്ങളുടെ സ്റ്റോറിലെ വിൽപ്പനയുടെ 5% ഓരോ മാസവും ഉറപ്പായും നിങ്ങൾക്ക് ലഭിക്കും",
+        "returenPointTwo": "മറ്റെല്ലാ ചെലവുകളും ഞങ്ങളുടെ പരിധിയിൽ വരും",
+        "returenPointThree": "മാർക്കറ്റിംഗ്, വാങ്ങൽ, ശമ്പളം, ഉപഭോക്തൃ ലോയൽറ്റി പ്രോഗ്രാമുകൾ, വൈദ്യുതി ബിൽ തുടങ്ങിയവ / ..",
 
-        "roiHead": "Return on Investment",
-        "roiAmount": "30%",
-        "roiPointOnt": "The minimum expected ROI is 30%.",
-        "roiPointTwo": "30% is a great return compared to any other industries",
-        "roiPointThree": "",
+        "roiHead": "നിക്ഷേപത്തിന്റെ വരുമാനം",
+        "roiPointOne": "പ്രതീക്ഷിക്കുന്ന ഏറ്റവും കുറഞ്ഞ ROI 30% ആണ്",
+        "roiPointTwo": "മറ്റേതൊരു വ്യവസായവുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ 30% മികച്ച ഒരു  വരുമാനം തന്നെ ആണ്",
         // Financials End
 
         //Call or WhatApp Start
