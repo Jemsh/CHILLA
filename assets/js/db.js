@@ -9,6 +9,25 @@ const benifitsTitleEl = document.querySelector('.benifitsTitle');
 const benifitsHeadOneEl = document.querySelector(".benifitsHeadOne");
 const benifitPointOneOneEl = document.querySelector(".benifitPointOneOne");
 
+const benifitsHeadTwoEl = document.querySelector(".benifitsHeadTwo");
+const benifitPointTwolEl = document.querySelector(".benifitPointTwol ");
+
+
+const benifitsHeadThreeEl = document.querySelector(".benifitsHeadThree");
+const benifitPointThreelEl = document.querySelector(".benifitPointThreel ");
+
+
+const benifitsHeadFoureEl = document.querySelector(".benifitsHeadFoure");
+const benifitPointFoureEl = document.querySelector(".benifitPointFourel ");
+
+
+const benifitsHeadFiveEl = document.querySelector(".benifitsHeadFive");
+const benifitPointFiveEl = document.querySelector(".benifitPointFivel ");
+
+
+const benifitsHeadSixEl = document.querySelector(".benifitsHeadSix");
+const benifitPointSixEl = document.querySelector(".benifitPointSixl ");
+
 link.forEach(el => {
     el.addEventListener('click', () => {
         langEl.querySelector('.active').classList.remove('active');
@@ -21,6 +40,17 @@ link.forEach(el => {
         benifitsTitleEl.textContent = data[attr].benifitsTitle;
         benifitsHeadOneEl.textContent = data[attr].benifitsHeadOne;
         benifitPointOneOneEl.textContent = data[attr].benifitPointOneOne;
+
+        benifitsHeadTwoEl.textContent = data[attr].benifitsHeadTwo;
+        benifitPointTwoEl.textContent = data[attr].benifitPointTwo;
+        benifitsHeadThreeEl.textContent = data[attr].benifitsHeadThree;
+        benifitPointThreeEl.textContent = data[attr].benifitPointThree;
+        benifitsHeadFoureEl.textContent = data[attr].benifitsHeadFoure;
+        benifitPointFoureEl.textContent = data[attr].benifitPointFoure;
+        benifitsHeadFiveEl.textContent = data[attr].benifitsHeadFive;
+        benifitPointFiveEl.textContent = data[attr].benifitPointFive;
+        benifitsHeadSixEl.textContent = data[attr].benifitsHeadSix;
+        benifitPointSixEl.textContent = data[attr].benifitPointSix;
 
 
     });
@@ -137,7 +167,7 @@ var data = {
 
         "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop",
         "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും സജ്ജമാക്കുകയും ചെയ്യുന്നു",
-       
+
         "benifitsHeadTwo": "Team Management Handled by Chilla",
         "benifitPointTwoOne": "We recruit and place the teams as your business requires.",
         "benifitPointTwoTwo": "We train each team member on customer behavior, sales, products, billing, merchandising, etc/.",
