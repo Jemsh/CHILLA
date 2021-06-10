@@ -112,17 +112,17 @@ var data = {
         "requirementsTitle": "Requirements",
         "requirementsSubTitle": "The rest is our responsibility!",
 
-        "requirementsHeadOne": "Store Premisses",
-        "requirementsPointOne": "Minimum sales floor should require 500 sq ft.Building must be new or well maintained",
+        "requirementsHeadOne": "Parking",
+        "requirementsPointOne": "here should be at least 7+ car parking",
 
-        "requirementsHeadTwo": "Parking",
-        "requirementsPointTwo": "There should be at least 7+ car parking.",
+        "requirementsHeadTwo": "Store Premises",
+        "requirementsPointTwo": "Minimum sales floor should require 500 sq ft | Building must be new or well maintained",
 
-        "requirementsHeadThree": "Investor Eligibility",
-        "requirementsPointThree": "An investor should be part of the day-to-day activity.The background of the investor should be clean and good.",
+        "requirementsHeadThree": "Location",
+        "requirementsPointThree": "There should be at least 1500 households within a radius of 5 km",
 
-        "requirementsHeadFoure": "Location",
-        "requirementsPointFoure": "There should be at least 1500 households within a radius of 5 km.",
+        "requirementsHeadFoure": "Investor Eligibility",
+        "requirementsPointFoure": "An investor should be part of the day-to-day activity | The background of the investor should be clean and good",
         //Requirements End
 
         // Meet Our Team Start
@@ -197,20 +197,20 @@ var data = {
         //Why End
 
         //Requirements Start
-        "requirementsTitle": "Requirements",
-        "requirementsSubTitle": "The rest is our responsibility!",
+        "requirementsTitle": "നിങ്ങൾക്കു വേണ്ടത്",
+        "requirementsSubTitle": "ബാക്കി ഞങ്ങളുടെ ഉത്തവാദിത്തം!",
 
-        "requirementsHeadOne": "Store Premisses",
-        "requirementsPointOne": "Minimum sales floor should require 500 sq ft.Building must be new or well maintained",
+        "requirementsHeadOne": "പാർക്കിംഗ്",
+        "requirementsPointOne": "കുറഞ്ഞത് 7+ കാർ പാർക്കിംഗ് എങ്കിലും ഉണ്ടായിരിക്കണം",
 
-        "requirementsHeadTwo": "Parking",
-        "requirementsPointTwo": "There should be at least 7+ car parking.",
+        "requirementsHeadTwo": "സ്റ്റോർ കെട്ടിടം",
+        "requirementsPointTwo": "കുറഞ്ഞത് 500 sgft വിസ്തീർണ്ണം ആവശ്യമാണ് | കെട്ടിടം പുതിയതോ നന്നായി പരിപാലിക്കുന്നതോ ആയിരിക്കണം",
 
-        "requirementsHeadThree": "Investor Eligibility",
-        "requirementsPointThree": "An investor should be part of the day-to-day activity.The background of the investor should be clean and good.",
+        "requirementsHeadThree": "സ്ഥാനം",
+        "requirementsPointThree": "5 കിലോമീറ്റർ ചുറ്റളവിൽ കുറഞ്ഞത് 1500 വീടുകളെങ്കിലും ഉണ്ടായിരിക്കണം",
 
-        "requirementsHeadFoure": "Location",
-        "requirementsPointFoure": "There should be at least 1500 households within a radius of 5 km.",
+        "requirementsHeadFoure": "നിക്ഷേപകന്റെ യോഗ്യത",
+        "requirementsPointFoure": "ഒരു നിക്ഷേപകൻ എങ്കിലും ദൈനംദിന പ്രവർത്തനത്തിന്റെ ഭാഗമായിരിക്കണം | നിക്ഷേപകന്റെ പശ്ചാത്തലം ശുദ്ധവും മികച്ചതുമായിരിക്കണം",
         //Requirements End
 
         // Meet Our Team Start
