@@ -212,7 +212,7 @@ var data = {
         "requirementsSubTitle": "The rest is our responsibility!",
 
         "requirementsHeadOne": "Parking",
-        "requirementsPointOne": "here should be at least 7+ car parking",
+        "requirementsPointOne": "There should be at least 7+ car parking",
 
         "requirementsHeadTwo": "Store Premises",
         "requirementsPointTwo": "Minimum sales floor should require 500 sq ft | Building must be new or well maintained",
@@ -328,8 +328,8 @@ var data = {
         // Financials End
 
         //Call or WhatApp Start
-        "callHead": "ഈ അവസരം നഷ്‌ടപ്പെടുത്തരുത് !!",
-        "callDescription": "ചില്ലയുടെ ഒരു ശാഖയാകാനുള്ള അവസരം! \nവിളിക്കു, whatsapp ചെയ്യൂ ഇപ്പൊ കേരത്തിൽ നൽകുന്ന ചില്ലയുടെ ഒരു ഫ്രാഞ്ചൈസി നേടാൻ!!!",
+        "callHead":"ഈ അവസരം നഷ്‌ടപ്പെടുത്തരുത് !!",
+        "callDescription": "ചില്ലയുടെ ഒരു ശാഖയാകാനുള്ള അവസരം!\nവിളിക്കു, whatsapp ചെയ്യൂ ഇപ്പൊ കേരത്തിൽ നൽകുന്ന ചില്ലയുടെ ഒരു ഫ്രാഞ്ചൈസി നേടാൻ!!!",
         //Call or WhatApp End
 
     }
