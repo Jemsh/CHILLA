@@ -648,7 +648,7 @@ hr {
 }
 
 .navbar li.active a.nav-link {
-  color: #preset;
+  color: preset;
 }
 
 .dropdown-toggle::after {
@@ -707,7 +707,7 @@ hr {
   border-bottom: 1px solid #f1f1f1;
   text-decoration: none;
   display: inline-block;
-  float: left;
+  float: left  ;
   clear: both;
   position: relative;
   outline: 0;
@@ -756,7 +756,7 @@ hr {
   min-height: 650px;
   position: relative;
   overflow: hidden;
-  padding: 100px 0 80px;
+  padding: 80px 0 80px;
 }
 
 #hero-area .contents .head-title {
@@ -1283,7 +1283,7 @@ textarea {
 
 /*cta
 */
-#cta{background: ;}
+/* #cta{background: } */
 
 /* Footer Area Start */
 .footer-area {
@@ -1427,6 +1427,12 @@ textarea {
   max-width: 90%;
 }
 .langWrap{
-  color: #f63854 !important;
+  color: #f63854 
 
+}
+p.webstart{
+  color: #f63854;
+  font-size: 23px; 
+ padding-bottom: 20px;
+ padding-left: 10px;
 }
