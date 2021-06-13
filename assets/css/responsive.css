@@ -108,7 +108,7 @@
   }
   .navbar-expand-md .navbar-brand,
   .navbar-expand-md .navbar-toggler {
-    margin: 0px 15px;
+    margin: 0px 10px;
   }
   .bg-inverse {
     background: #fff !important;
@@ -120,9 +120,11 @@
   }
   .navbar-brand img {
     margin: 5px 0;
+    width: 70%;
   }
   .top-nav-collapse .navbar-brand img {
     margin-top: 10px;
+    width: 65%;
   }
   .intro-img {
     margin-top: 25px;

@@ -510,8 +510,8 @@ hr {
 }
 
 .navbar-brand {
-  width:68% !important;
-  position: relative;
+  width:60% ;
+  position:relative;
   padding: 0px;
 }
 
@@ -531,7 +531,7 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 50%;
+  width: 40%;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -585,7 +585,7 @@ hr {
 }
 
 .navbar-expand-md .navbar-nav .nav-item {
-  padding-left: 25px;
+  padding-left: 35px;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
@@ -756,7 +756,7 @@ hr {
   min-height: 650px;
   position: relative;
   overflow: hidden;
-  padding: 80px 0 80px;
+  padding: 150px 0 80px;
 }
 
 #hero-area .contents .head-title {
@@ -1427,7 +1427,8 @@ textarea {
   max-width: 90%;
 }
 .langWrap{
-  color: #f63854 
+  color: #f63854;
+  padding-right: 0px;
 
 }
 p.webstart{
