@@ -183,7 +183,7 @@ var data = {
         "benifitsTitle": "Benefit of Chilla",
 
         "benifitsHeadOne": "SOP In Whole Area",
-        "benifitPointOneOne": "We retain the Standard Of Procedures in every area | We build and furnish the store.",
+        "benifitPointOneOne": "We retain the Standard Of Procedures in every area | We furnish and execute the store.",
 
         "benifitsHeadTwo": "Team Management",
         "benifitPointTwo": "We recruit and place the teams as your business requires | We train each team member on customer behavior, sales, products, billing, merchandising, etc/ | To increase the sales, we assign targets and commissions to the team.",
@@ -192,7 +192,7 @@ var data = {
         "benifitPointThree": "Chilla buys and delivers only the required stocks of each store | Pricing is based on your market | We purchase goods from companies with special prices.",
 
         "benifitsHeadFoure": "Marketing",
-        "benifitPointFoure": "We study your market regularly | We spend a certain amount on marketing for each store every month | We develop and implement strategies tailored to your location to achieve sales goals.",
+        "benifitPointFoure": "We study your market regularly | We develop and implement strategies tailored to your location to achieve sales goals | We spend a certain amount on marketing for each store every month",
 
 
         "benifitsHeadFive": "Private Labeling",
@@ -265,19 +265,19 @@ var data = {
         "benifitsTitle": "chilla യുടെ പ്രയോജനങ്ങൾ",
 
         "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop",
-        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും സജ്ജമാക്കുകയും ചെയ്യുന്നു",
+        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും പ്രവൃത്തിപ്പിക്കുകയും ചെയ്യുന്നു",
 
 
         "benifitsHeadTwo": "ടീം മാനേജുമെന്റ്",
-        "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
+        "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് etc/. മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
 
 
         "benifitsHeadThree": "സ്റ്റോക്ക് എന്ന തലവേദന നിങ്ങൾ അറിയുന്നില്ല",
-        "benifitPointThree": "ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla വാങ്ങി എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു | കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു",
+        "benifitPointThree": "കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു| ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു | ",
 
 
         "benifitsHeadFoure": "മാർക്കറ്റിംഗ്",
-        "benifitPointFoure": "ഞങ്ങൾ നിങ്ങളുടെ മാർക്കറ്റിനെ കുറിച്ച്  പതിവായി പഠിക്കുന്നു | ഓരോ സ്റ്റോറിനും ഓരോ മാസവും മാർക്കറ്റിംഗിനായി chilla  ഒരു നിശ്ചിത തുക ചെലവഴിക്കുന്നു | വിൽപ്പന ടാർഗറ്റ്  നേടാൻ, നിങ്ങളുടെ ലൊക്കേഷന് അനുയോജ്യമായ തന്ത്രംങ്ങൾ  വികസിപ്പിച്ചു പ്രാവർത്തികമാകുന്നു",
+        "benifitPointFoure": "ഞങ്ങൾ നിങ്ങളുടെ മാർക്കറ്റിനെ കുറിച്ച്  പതിവായി പഠിക്കുന്നു | നിങ്ങളുടെ ലൊക്കേഷന് അനുയോജ്യമായ തന്ത്രംങ്ങൾ വികസിപ്പിച്ചു പ്രാവർത്തികമാകുന്നു | ഓരോ സ്റ്റോറിനും ഓരോ മാസവും മാർക്കറ്റിംഗിനായി chilla  ഒരു നിശ്ചിത തുക ചെലവഴിക്കുന്നു ",
 
         "benifitsHeadFive": "പ്രൈവറ്റ്  ലേബലിംഗ്",
         "benifitPointFive": "നമ്മുടെ ബ്രാൻഡ് നാമത്തിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്നു | അങ്ങനെ ഉൽപ്പനകളുടെ , ഗുണനിലവാരവും വിലയും ഞങ്ങൾ ഉറപ്പാക്കുന്നു | ഇത് നല്ല തരത്തിലുള്ള ബിസിനസ് കൊണ്ടുവരും",
