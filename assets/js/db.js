@@ -177,7 +177,7 @@ var data = {
 
         "titleTwo": "",
 
-        "description": "Everyone knows that supermarkets are a highly profitable business in any crisis situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 35 years. \nDo you want a regular monthly income without knowing any hassle or difficulty of this business? \nBe a part of the prestigious Chilla Supermarket Chains!\nThe rest is our guarantee!",
+        "description": "Everyone knows that supermarkets are a highly profitable business in any crisis situation and its operations are always very difficult.We do all these difficult operations for you. We make good and right choices in every aspect of the business that will bring assured profit to you.We have acquired this art through experience and regular updates over 30 years. \nDo you want a regular monthly income without knowing any hassle or difficulty of this business? \nBe a part of the prestigious Chilla Supermarket Chains!\nThe rest is our guarantee!",
 
         // Benifits start
         "benifitsTitle": "Benefit of Chilla",
@@ -192,11 +192,11 @@ var data = {
         "benifitPointThree": "Chilla buys and delivers only the required stocks of each store | Pricing is based on your market | We purchase goods from companies with special prices.",
 
         "benifitsHeadFoure": "Marketing",
-        "benifitPointFoure": "We study your market regularly | We develop and implement strategies tailored to your location to achieve sales goals | We spend a certain amount on marketing for each store every month",
+        "benifitPointFoure": "We study your market regularly | We develop and implement strategies tailored to your location to achieve sales goals | We spend a certain amount on marketing for each store every month.",
 
 
         "benifitsHeadFive": "Private Labeling",
-        "benifitPointFive": "Manufactures products under our brand name | In this way we ensure quality and price",
+        "benifitPointFive": "Manufactures products under our brand name | In this way we ensure quality and price.",
 
         "benifitsHeadSix": "Customer Relationship",
         "benifitPointSix": "Our purchasing system gives large amounts of discount to the customer | Customer loyalty packages | Customer Relationship Management System.",
@@ -273,7 +273,7 @@ var data = {
 
 
         "benifitsHeadThree": "സ്റ്റോക്ക് എന്ന തലവേദന നിങ്ങൾ അറിയുന്നില്ല",
-        "benifitPointThree": "കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു| ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു | ",
+        "benifitPointThree": "കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു| ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു",
 
 
         "benifitsHeadFoure": "മാർക്കറ്റിംഗ്",
@@ -329,7 +329,7 @@ var data = {
 
         //Call or WhatApp Start
         "callHead":"ഈ അവസരം നഷ്‌ടപ്പെടുത്തരുത് !!",
-        "callDescription": "ചില്ലയുടെ ഒരു ശാഖയാകാനുള്ള അവസരം!\nവിളിക്കു, whatsapp ചെയ്യൂ ഇപ്പൊ കേരത്തിൽ നൽകുന്ന ചില്ലയുടെ ഒരു ഫ്രാഞ്ചൈസി നേടാൻ!!!",
+        "callDescription": "ചില്ലയുടെ ഒരു ശാഖയാകാനുള്ള അവസരം!\nവിളിക്കു, WhatsApp ചെയ്യൂ ഇപ്പൊ കേരത്തിൽ നൽകുന്ന ചില്ലയുടെ ഒരു ഫ്രാഞ്ചൈസി നേടാൻ!!!",
         //Call or WhatApp End
 
     }
