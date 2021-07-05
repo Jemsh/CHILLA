@@ -1,0 +1,68 @@
+<section id="team" class="section-padding bg-gray">
+    <div class="container">
+      <div class="section-header text-center">
+        <h2 class="section-title wow fadeInDown" data-wow-delay="0.3s">Key Promotors</h2>
+        <div class="shape wow fadeInDown" data-wow-delay="0.3s"></div>
+      </div>
+      <div class="row">
+        <div class="col-lg-6 col-md-12 col-xs-12">
+          <!-- Team Item Starts -->
+          <div class="team-item wow fadeInRight" data-wow-delay="0.2s">
+            <div class="team-img">
+              <img class="img-fluid" src="assets/img/team/team-01.png" alt="">
+            </div>
+            <div class="contetn">
+              <div class="info-text">
+                <h3><a href="#">Jemsheed Parambalan</a></h3>
+                <!-- <p>Front-end Developer</p> -->
+              </div>
+              <p>QUALIFICATION: GRADUATION FROM OXFORD,BANGALORE.<br>
+                EXPERIENCE:
+                FMCG - 5 years,<br>
+                CONSTRUCTION - 4 years,<br>
+                FINANCE CONSULTANCY - 3.5 years.</p>
+              <ul class="social-icons">
+                <li><a href="#"><i class="lni-facebook-filled" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="lni-twitter-filled" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="lni-instagram-filled" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- Team Item Ends -->
+        </div>
+        <div class="col-lg-6 col-md-12 col-xs-12">
+          <!-- Team Item Starts -->
+          <div class="team-item wow fadeInRight" data-wow-delay="0.4s">
+            <div class="team-img">
+              <img class="img-fluid" src="assets/img/team/team-02.png" alt="">
+            </div>
+            <div class="contetn">
+              <div class="info-text">
+                <h3><a href="#">HABEEB VARIKKODAN</a></h3>
+                <!-- <p>Product Designer</p> -->
+              </div>
+              <p>EXPERIENCE:<br>
+                RETAIL INDUSTRY - 30 years<br>
+                IT INDUSTRY - 7 years<br>
+                FMCG CONSULTANCY - 5 years
+                <br><br>
+
+              </p>
+              <ul class="social-icons">
+                <li><a href="#"><i class="lni-facebook-filled" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="lni-twitter-filled" aria-hidden="true"></i></a></li>
+                <li><a href="#"><i class="lni-instagram-filled" aria-hidden="true"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <!-- Team Item Ends -->
+        </div>
+        <div class="col-lg-6 col-md-12 col-xs-12">
+     
+        </div>
+        <div class="col-lg-6 col-md-12 col-xs-12">
+      
+        </div>
+      </div>
+    </div>
+  </section>

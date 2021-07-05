@@ -61,12 +61,11 @@ const investmentPointTwoEl = document.querySelector(".investmentPointTwo");
 const investmentPointThreeEl = document.querySelector(".investmentPointThree");
 // //Investment End
 
-// //Returens Start
-const returenHeadEl = document.querySelector(".returenHead");
-const returenPointOneEl = document.querySelector(".returenPointOne");
-const returenPointTwoEl = document.querySelector(".returenPointTwo");
-const returenPointThreeEl = document.querySelector(".returenPointThree");
-// //Returens End
+// //Expenses Start
+const expensesHeadEl = document.querySelector(".expensesHead");
+const expensesPointTwoEl = document.querySelector(".expensesPointTwo");
+const expensesPointThreeEl = document.querySelector(".expensesPointThree");
+// //Expenses End
 
 // //Roi Start
 const roiHeadEl = document.querySelector(".roiHead");
@@ -144,12 +143,11 @@ link.forEach(el => {
         investmentPointThreeEl.textContent = data[attr].investmentPointThree;
         // //Investment End
 
-        // //Returens Start
-        returenHeadEl.textContent = data[attr].returenHead;
-        returenPointOneEl.textContent = data[attr].returenPointOne;
-        returenPointTwoEl.textContent = data[attr].returenPointTwo;
-        returenPointThreeEl.textContent = data[attr].returenPointThree;
-        // //Returens End
+        // //Expenses Start
+        expensesHeadEl.textContent = data[attr].expensesHead;
+        expensesPointTwoEl.textContent = data[attr].expensesPointTwo;
+        expensesPointThreeEl.textContent = data[attr].expensesPointThree;
+        // //Expenses End
 
         // //Roi Start
         roiHeadEl.textContent = data[attr].roiHead;
@@ -232,18 +230,17 @@ var data = {
         "financialsTitle": "Financials",
 
         "investmentHead": "Investment",
-        "investmentPointOne": "This is the minimum investment required",
-        "investmentPointTwo": "The franchise fee is Rs 250,000 /- + GST",
-        "investmentPointThree": "You only need to pay the actual cost of setting up the store",
+        "investmentPointOne": "This is the minimum investment required.",
+        "investmentPointTwo": "The franchise fee is Rs 250,000 /- + GST.",
+        "investmentPointThree": "You only need to pay the actual cost of setting up the store.",
 
-        "returenHead": "Returns",
-        "returenPointOne": "You will definitely get a flat return of 5% of the sales in your store every month",
-        "returenPointTwo": "All other expenses are covered under our purview.",
-        "returenPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
+        "expensesHead": "Expenses",
+        "expensesPointTwo": "All expenses are covered under our purview.",
+        "expensesPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
 
         "roiHead": "Return on Investment",
-        "roiPointOne": "The minimum expected ROI is 30%",
-        "roiPointTwo": "30% is a great return compared to any other industries",
+        "roiPointOne": "The minimum guaranteed ROI is 7.02% and increases in line with sales up to 46.77%.",
+        "roiPointTwo": "46.77% is a great return compared to any other industries.",
         // Financials End
 
         //Call or WhatApp Start
@@ -313,18 +310,17 @@ var data = {
         "financialsTitle": "സാമ്പത്തികം",
 
         "investmentHead": "നിക്ഷേപം",
-        "investmentPointOne": "ഇത് ആവശ്യമായ മിനിമം നിക്ഷേപം ആണ്",
-        "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 /- + GST",
-        "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ",
+        "investmentPointOne": "ഇത് ആവശ്യമായ മിനിമം നിക്ഷേപം ആണ്.",
+        "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 /- + GST.",
+        "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ.",
 
-        "returenHead": "വരുമാനം",
-        "returenPointOne": "നിങ്ങളുടെ സ്റ്റോറിലെ വിൽപ്പനയുടെ 5% ഓരോ മാസവും ഉറപ്പായും നിങ്ങൾക്ക് ലഭിക്കും",
-        "returenPointTwo": "മറ്റെല്ലാ ചെലവുകളും ഞങ്ങളുടെ പരിധിയിൽ വരും",
-        "returenPointThree": "മാർക്കറ്റിംഗ്, വാങ്ങൽ, ശമ്പളം, ഉപഭോക്തൃ ലോയൽറ്റി പ്രോഗ്രാമുകൾ, വൈദ്യുതി ബിൽ തുടങ്ങിയവ / ..",
+        "expensesHead": "ചിലവുകള്‍",
+        "expensesPointTwo": "എല്ലാ ചെലവുകളും ഞങ്ങളുടെ പരിധിയിൽ വരും.",
+        "expensesPointThree": "മാർക്കറ്റിംഗ്, വാങ്ങൽ, ശമ്പളം, ഉപഭോക്തൃ ലോയൽറ്റി പ്രോഗ്രാമുകൾ, വൈദ്യുതി ബിൽ തുടങ്ങിയവ / ..",
 
         "roiHead": "നിക്ഷേപത്തിന്റെ വരുമാനം",
-        "roiPointOne": "പ്രതീക്ഷിക്കുന്ന ഏറ്റവും കുറഞ്ഞ ROI 30% ആണ്",
-        "roiPointTwo": "മറ്റേതൊരു വ്യവസായവുമായി താരതമ്യപ്പെടുത്തുമ്പോൾ 30% മികച്ച ഒരു  വരുമാനം തന്നെ ആണ്",
+        "roiPointOne": "ഏറ്റവും കുറഞ്ഞ ഗ്യാരണ്ടീഡ് ROI ആണ് 7.02%, ഇത് 46.77% വരെ വിൽപ്പനയ്ക്ക് അനുസരിച്ച് വർദ്ധിക്കുന്നു.",
+        "roiPointTwo": "മറ്റേതൊരു വ്യവസായവുമായി  താരതമ്യപ്പെടുത്തുമ്പോഴും 46.77% മികച്ച ഒരു  വരുമാനം തന്നെ ആണ്.",
         // Financials End
 
         //Call or WhatApp Start
