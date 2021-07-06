@@ -1287,12 +1287,13 @@ textarea {
 
 /* Footer Area Start */
 .footer-area {
-  position: relative;
-  padding: 150px 0px 0px;
+
+  padding: 50px 0px 0px;
   background: #fff;
 }
 
 .footer-area .footer-titel {
+
   font-size: 18px;
   color: #333333;
   font-weight: 500;
@@ -1301,11 +1302,13 @@ textarea {
 }
 
 .footer-area .footer-titel span {
+  
   color: #ccc;
   font-weight: 400;
 }
 
 .footer-area .textwidget p {
+ 
   color: #333;
 }
 
@@ -1424,7 +1427,8 @@ textarea {
   background: #CE332A;
 }
 .footer-logo{
-  max-width: 90%;
+  max-width: 75%; 
+  
 }
 .langWrap{
   color: #f63854;
