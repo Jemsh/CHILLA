@@ -180,24 +180,24 @@ var data = {
         // Benifits start
         "benifitsTitle": "Benefit of Chilla",
 
-        "benifitsHeadOne": "SOP In Whole Area",
-        "benifitPointOneOne": "We retain the Standard Of Procedures in every area | We furnish and execute the store.",
+        "benifitsHeadOne": "Operations",
+        "benifitPointOneOne": "Our Standard Of Procedures (SOP) are maintained in every aspect of the store | We furnish and execute the store.",
 
         "benifitsHeadTwo": "Team Management",
-        "benifitPointTwo": "We recruit and place the teams as your business requires | We train each team member on customer behavior, sales, products, billing, merchandising, etc/ | To increase the sales, we assign targets and commissions to the team.",
+        "benifitPointTwo": "We recruit and train the teams as Store requires | Our revenue sharing program allows team to live better and perform better.",
 
         "benifitsHeadThree": "Inventory Management",
-        "benifitPointThree": "Chilla buys and delivers only the required stocks of each store | Pricing is based on your market | We purchase goods from companies with special prices.",
+        "benifitPointThree": "Chilla purchases goods directly from companies that offer favorable prices |delivers only the stocks required by the store.",
 
         "benifitsHeadFoure": "Marketing",
-        "benifitPointFoure": "We study your market regularly | We develop and implement strategies tailored to your location to achieve sales goals | We spend a certain amount on marketing for each store every month.",
+        "benifitPointFoure": "We study and implement strategies that are tailored to your location | Every month,spend a certain amount on marketing for each store.",
 
 
         "benifitsHeadFive": "Private Labeling",
-        "benifitPointFive": "Manufactures products under our brand name | In this way we ensure quality and price.",
+        "benifitPointFive": "Creating high-quality products under our brand name | Ensures that our products meet our customer's expectations.",
 
         "benifitsHeadSix": "Customer Relationship",
-        "benifitPointSix": "Our purchasing system gives large amounts of discount to the customer | Customer loyalty packages | Customer Relationship Management System.",
+        "benifitPointSix": "Our purchasing system offers large discounts to our customers | Customer loyalty packages | Customer Relationship Management System.",
         // Benifits End
 
         //Why Start
@@ -261,26 +261,26 @@ var data = {
         // Benifits start
         "benifitsTitle": "chilla യുടെ പ്രയോജനങ്ങൾ",
 
-        "benifitsHeadOne": "മുഴുവൻ കാര്യങ്ങളിലും sop",
-        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും പ്രവൃത്തിപ്പിക്കുകയും ചെയ്യുന്നു",
+        "benifitsHeadOne": "ഓപ്പറേഷൻസ്",
+        "benifitPointOneOne": "എല്ലാ സ്റ്റോറിലെയും എല്ലാ മേഖലയിലും ഒരേ സ്റ്റാൻഡേർഡ് നടപടിക്രമങ്ങൾ (SOP)  നിലനിർത്തുന്നു | ഞങ്ങൾ സ്റ്റോർ നിർമ്മിക്കുകയും പ്രവൃത്തിപ്പിക്കുകയും ചെയ്യുന്നു.",
 
 
         "benifitsHeadTwo": "ടീം മാനേജുമെന്റ്",
-        "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു | ഉപഭോക്തൃ പെരുമാറ്റം, വിൽ‌പന, ഉൽ‌പ്പന്നങ്ങൾ‌, ബില്ലിംഗ്, മർച്ചൻഡൈസിംഗ് etc/. മുതലായവയിൽ‌ ഓരോ ടീം അംഗങ്ങളെയും  പരിശീലിപ്പിക്കുന്നു | വിൽ‌പന വർദ്ധിപ്പിക്കുന്നതിന്, നമ്മൾ  ടീമിന് ടാർ‌ഗെറ്റുകളും കമ്മീഷനുകളും നൽകുന്നു",
+        "benifitPointTwo": "നിങ്ങളുടെ സ്റ്റോറിന് ആവശ്യാനുസരണം ടീമിനെ നിയമിക്കുന്നു, പരിശീലിപ്പിക്കുന്നു | വരുമാന പങ്കിടൽ പ്രോഗ്രാമിലൂടെ, മികച്ച രീതിയിൽ ജീവിക്കാനും മികച്ച പ്രകടനം നടത്താനും ടീമിനെ പ്രാപ്‌തമാക്കുന്നു.",
 
 
-        "benifitsHeadThree": "സ്റ്റോക്ക് എന്ന തലവേദന നിങ്ങൾ അറിയുന്നില്ല",
-        "benifitPointThree": "കമ്പനികളുമായി നേരിട്ട് സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു| ഓരോ സ്റ്റോറിന്റെയും ആവശ്യമായ സ്റ്റോക്ക്കൾ മാത്രം chilla എത്തിച്ചു തരുന്നു | നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വില നിർണ്ണയം നടത്തുന്നു",
+        "benifitsHeadThree": "സ്റ്റോക്ക് മാനേജ്മെന്റ്",
+        "benifitPointThree": "കമ്പനികളുമായി സംസാരിച്ചു പ്രതേക വിലക്ക് ചരക്കുകൾ വാങ്ങിക്കുന്നു|ഓരോ സ്റ്റോറിലേക്കും ആവശ്യമുള്ളതു മാത്രം എത്തിച്ചുതരുന്നു|നിങ്ങളുടെ മാർക്കറ്റ് അനുസരിച്ച്‌ വിലനിർണ്ണയം നടത്തുന്നു.",
 
 
         "benifitsHeadFoure": "മാർക്കറ്റിംഗ്",
-        "benifitPointFoure": "ഞങ്ങൾ നിങ്ങളുടെ മാർക്കറ്റിനെ കുറിച്ച്  പതിവായി പഠിക്കുന്നു | നിങ്ങളുടെ ലൊക്കേഷന് അനുയോജ്യമായ തന്ത്രംങ്ങൾ വികസിപ്പിച്ചു പ്രാവർത്തികമാകുന്നു | ഓരോ സ്റ്റോറിനും ഓരോ മാസവും മാർക്കറ്റിംഗിനായി chilla  ഒരു നിശ്ചിത തുക ചെലവഴിക്കുന്നു ",
+        "benifitPointFoure": "നിങ്ങളുടെ മാർക്കറ്റിനെ കുറിച്ച് പതിവായി പഠിച്ചു അനുയോജ്യമായ തന്ത്രംങ്ങൾ വികസിപ്പിച്ചു പ്രാവർ ത്തികമാകുന്നു | ഓരോസ്റ്റോറിനും ഓരോമാസവും മാർക്കറ്റിംഗിനായി ഒരുനിശ്ചിത തുകചെലവഴിക്കുന്നു.",
 
         "benifitsHeadFive": "പ്രൈവറ്റ്  ലേബലിംഗ്",
-        "benifitPointFive": "നമ്മുടെ ബ്രാൻഡ് നാമത്തിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്നു | അങ്ങനെ ഉൽപ്പനകളുടെ , ഗുണനിലവാരവും വിലയും ഞങ്ങൾ ഉറപ്പാക്കുന്നു | ഇത് നല്ല തരത്തിലുള്ള ബിസിനസ് കൊണ്ടുവരും",
+        "benifitPointFive": "നമ്മുടെ ബ്രാൻഡ് നാമത്തിൽ ഉൽപ്പന്നങ്ങൾ നിർമ്മിക്കുന്നു | അങ്ങനെ ഉൽപ്പനകളുടെ , ഗുണനിലവാരവും വിലയും ഞങ്ങൾ ഉറപ്പാക്കുന്നു | ഇത് നല്ല തരത്തിലുള്ള ബിസിനസ് കൊണ്ടുവരും.",
 
         "benifitsHeadSix": "ഉപഭോക്തൃ ബന്ധം",
-        "benifitPointSix": "ഉൽപ്പന്നങ്ങൾ പ്രത്യേക വിലക്ക് വാങ്ങുന്നതിനാൽ ഉപഭോക്താവിന് വലിയ അളവിൽ ഇളവ് നൽകാൻ സാധിക്കുന്നു | ഉപഭോക്തൃ ലോയൽറ്റി പാക്കേജുകൾ | ഉപഭോക്തൃ ബന്ധ മാനേജുമെന്റ് സിസ്റ്റം ",
+        "benifitPointSix": "ഉൽപ്പന്നങ്ങൾ പ്രത്യേക വിലക്ക് വാങ്ങുന്നതിനാൽ ഉപഭോക്താവിന് വലിയ അളവിൽ ഇളവ് നൽകാൻ സാധിക്കുന്നു | ഉപഭോക്തൃ ലോയൽറ്റി പാക്കേജുകൾ | ഉപഭോക്തൃ ബന്ധ മാനേജുമെന്റ് സിസ്റ്റം.",
         // Benifits End
 
         //Why Start
@@ -312,7 +312,7 @@ var data = {
         "investmentHead": "നിക്ഷേപം",
         "investmentPointOne": "ഇത് ആവശ്യമായ മിനിമം നിക്ഷേപം ആണ്.",
         "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 /- + GST.",
-        "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ.",
+        "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ. ",
 
         "expensesHead": "ചിലവുകള്‍",
         "expensesPointTwo": "എല്ലാ ചെലവുകളും ഞങ്ങളുടെ പരിധിയിൽ വരും.",
@@ -320,7 +320,7 @@ var data = {
 
         "roiHead": "നിക്ഷേപത്തിന്റെ വരുമാനം",
         "roiPointOne": "ഏറ്റവും കുറഞ്ഞ ഗ്യാരണ്ടീഡ് ROI ആണ് 7.02%, ഇത് 46.77% വരെ വിൽപ്പനയ്ക്ക് അനുസരിച്ച് വർദ്ധിക്കുന്നു.",
-        "roiPointTwo": "മറ്റേതൊരു വ്യവസായവുമായി  താരതമ്യപ്പെടുത്തുമ്പോഴും 46.77% മികച്ച ഒരു  വരുമാനം തന്നെ ആണ്.",
+        "roiPointTwo": "മറ്റേതൊരു വ്യവസായത്തെയും അപേക്ഷിച്ച് 46.77% മികച്ച വരുമാനമാണ്.",
         // Financials End
 
         //Call or WhatApp Start
