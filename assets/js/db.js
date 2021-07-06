@@ -210,16 +210,16 @@ var data = {
         "requirementsSubTitle": "The rest is our responsibility!",
 
         "requirementsHeadOne": "Parking",
-        "requirementsPointOne": "There should be at least 7+ car parking",
+        "requirementsPointOne": "There should be at least 7+ car parking.",
 
         "requirementsHeadTwo": "Store Premises",
-        "requirementsPointTwo": "Minimum sales floor should require 500 sq ft | Building must be new or well maintained",
+        "requirementsPointTwo": "Minimum sales floor should require 500 sq ft | Building must be new or well maintained.",
 
         "requirementsHeadThree": "Location",
-        "requirementsPointThree": "There should be at least 1500 households within a radius of 5 km",
+        "requirementsPointThree": "There should be at least 1500 households within a radius of 5 km.",
 
         "requirementsHeadFoure": "Investor Eligibility",
-        "requirementsPointFoure": "An investor should be part of the day-to-day activity | The background of the investor should be clean and good",
+        "requirementsPointFoure": "An investor should be part of the daily operation | The background of the investor should be impeccable.",
         //Requirements End
 
         // Meet Our Team Start
@@ -293,16 +293,16 @@ var data = {
         "requirementsSubTitle": "ബാക്കി ഞങ്ങളുടെ ഉത്തവാദിത്തം!",
 
         "requirementsHeadOne": "പാർക്കിംഗ്",
-        "requirementsPointOne": "കുറഞ്ഞത് 7+ കാർ പാർക്കിംഗ് എങ്കിലും ഉണ്ടായിരിക്കണം",
+        "requirementsPointOne": "കുറഞ്ഞത് 7+ കാർ പാർക്കിംഗ് എങ്കിലും ഉണ്ടായിരിക്കണം.",
 
         "requirementsHeadTwo": "സ്റ്റോർ കെട്ടിടം",
-        "requirementsPointTwo": "കുറഞ്ഞത് 500 sgft വിസ്തീർണ്ണം ആവശ്യമാണ് | കെട്ടിടം പുതിയതോ നന്നായി പരിപാലിക്കുന്നതോ ആയിരിക്കണം",
+        "requirementsPointTwo": "കുറഞ്ഞത് 500 sgft വിസ്തീർണ്ണം ആവശ്യമാണ് | കെട്ടിടം പുതിയതോ നന്നായി പരിപാലിക്കുന്നതോ ആയിരിക്കണം.",
 
         "requirementsHeadThree": "സ്ഥാനം",
-        "requirementsPointThree": "5 കിലോമീറ്റർ ചുറ്റളവിൽ കുറഞ്ഞത് 1500 വീടുകളെങ്കിലും ഉണ്ടായിരിക്കണം",
+        "requirementsPointThree": "5 കിലോമീറ്റർ ചുറ്റളവിൽ കുറഞ്ഞത് 1500 വീടുകളെങ്കിലും ഉണ്ടായിരിക്കണം.",
 
         "requirementsHeadFoure": "നിക്ഷേപകന്റെ യോഗ്യത",
-        "requirementsPointFoure": "ഒരു നിക്ഷേപകൻ എങ്കിലും ദൈനംദിന പ്രവർത്തനത്തിന്റെ ഭാഗമായിരിക്കണം | നിക്ഷേപകന്റെ പശ്ചാത്തലം ശുദ്ധവും മികച്ചതുമായിരിക്കണം",
+        "requirementsPointFoure": "ഒരു നിക്ഷേപകൻ എങ്കിലും ദൈനംദിന പ്രവർത്തനത്തിന്റെ ഭാഗമായിരിക്കണം | നിക്ഷേപകന്റെ പശ്ചാത്തലം ശുദ്ധവും മികച്ചതുമായിരിക്കണം.",
         //Requirements End
 
 
