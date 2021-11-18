@@ -206,4 +206,12 @@
   .cta-text {
     margin-bottom: 30px;
   }
+  .requirementsImage {
+    max-width:  50%;
+    max-height: 60%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+   
+  }
 }
