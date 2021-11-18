@@ -230,17 +230,17 @@ var data = {
         "financialsTitle": "Financials",
 
         "investmentHead": "Investment",
-        "investmentPointOne": "This is the minimum investment required.",
+        "investmentPointOne": "25 lakh rupees is a fully refundable deposit amount which may vary based on your location.",
         "investmentPointTwo": "The franchise fee is Rs 250,000 /- + GST.",
         "investmentPointThree": "You only need to pay the actual cost of setting up the store.",
 
         "expensesHead": "Expenses",
         "expensesPointTwo": "All expenses are covered under our purview.",
-        "expensesPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bill etc/..",
+        "expensesPointThree": "Marketing, Purchasing, Salaries, Customer loyalty programs, Electricity bills, Real Estate rent, and all other expenditures will be borne by the company.",
 
         "roiHead": "Return on Investment",
-        "roiPointOne": "The minimum guaranteed ROI is 7.02% and increases in line with sales up to 46.77%.",
-        "roiPointTwo": "46.77% is a great return compared to any other industries.",
+        "roiPointOne": "You will receive guaranteed revenue at the end of every month based on your sales.",
+        "roiPointTwo": "The minimum guaranteed ROI is 7.02% and increases in line with sales up to 46.77%.",
         // Financials End
 
         //Call or WhatApp Start
@@ -310,17 +310,17 @@ var data = {
         "financialsTitle": "സാമ്പത്തികം",
 
         "investmentHead": "നിക്ഷേപം",
-        "investmentPointOne": "ഇത് ആവശ്യമായ മിനിമം നിക്ഷേപം ആണ്.",
-        "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 /- + GST.",
+        "investmentPointOne": "25 ലക്ഷം പൂർണ്ണമായും റീഫണ്ട് ചെയ്യാവുന്ന നിക്ഷേപ തുകയാണ്, അത് നിങ്ങളുടെ ലൊക്കേഷൻ അനുസരിച്ച് വ്യത്യാസപ്പെടാം.",
+        "investmentPointTwo": "ഫ്രാഞ്ചൈസ് ഫീസ് Rs 250,000.00 (+GST).",
         "investmentPointThree": "സ്റ്റോർ സജ്ജീകരിക്കുന്നതിനുള്ള യഥാർത്ഥ വില മാത്രമേ നിങ്ങൾ നൽകേണ്ടതുള്ളൂ. ",
 
         "expensesHead": "ചിലവുകള്‍",
         "expensesPointTwo": "എല്ലാ ചെലവുകളും ഞങ്ങളുടെ പരിധിയിൽ വരും.",
-        "expensesPointThree": "മാർക്കറ്റിംഗ്, വാങ്ങൽ, ശമ്പളം, ഉപഭോക്തൃ ലോയൽറ്റി പ്രോഗ്രാമുകൾ, വൈദ്യുതി ബിൽ തുടങ്ങിയവ / ..",
+        "expensesPointThree": "​​മാർക്കറ്റിംഗ്, പർച്ചേസിംഗ്, ശമ്പളം, ഉപഭോക്തൃ ലോയൽറ്റി പ്രോഗ്രാമുകൾ, ഇലക്ട്രിസിറ്റി ബില്ലുകൾ, റിയൽ എസ്റ്റേറ്റ് വാടക, മറ്റ് എല്ലാ ചെലവുകളും കമ്പനി വഹിക്കും.",
 
         "roiHead": "നിക്ഷേപത്തിന്റെ വരുമാനം",
-        "roiPointOne": "ഏറ്റവും കുറഞ്ഞ ഗ്യാരണ്ടീഡ് ROI ആണ് 7.02%, ഇത് 46.77% വരെ വിൽപ്പനയ്ക്ക് അനുസരിച്ച് വർദ്ധിക്കുന്നു.",
-        "roiPointTwo": "മറ്റേതൊരു വ്യവസായത്തെയും അപേക്ഷിച്ച് 46.77% മികച്ച വരുമാനമാണ്.",
+        "roiPointOne": "നിങ്ങളുടെ വിൽപ്പനയെ അടിസ്ഥാനമാക്കി എല്ലാ മാസാവസാനവും ഉറപ്പായും നിങ്ങൾക്ക് വരുമാനം ലഭിക്കും.",
+        "roiPointTwo": "ഏറ്റവും കുറഞ്ഞ ഗ്യാരണ്ടീഡ് ROI ആണ് 7.02%, ഇത് 46.77% വരെ വിൽപ്പനയ്ക്ക് അനുസരിച്ച് വർദ്ധിക്കുന്നു.",
         // Financials End
 
         //Call or WhatApp Start
